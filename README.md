@@ -13,3 +13,11 @@ This is an orange 🍊
 This is a banana 🍌
 {% endtab %}
 {% endtabs %}
+
+<details>
+
+<summary>Panel 1</summary>
+
+Panel 1 body
+
+</details>
